@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/build.vc11/.vs/mpir/v15
+/build.vc15/.vs
+/build.vc15/dll_mpir_core2/.vs/dll_mpir_core2
+/build.vc15/dll_mpir_core2/x64/Release
+/build.vc15/dll_mpir_gc/.vs/dll_mpir_gc/v15
+/build.vc15/dll_mpir_haswell_avx/x64/Release/dll_mpir.074CFDBD.tlog
+/build.vc15/dll_mpir_skylake_avx/x64
+/build.vc15/lib_mpir_cxx/.vs/lib_mpir_cxx/v15
+/build.vc15/lib_mpir_skylake_avx/x64/Debug
+/dll/x64/Release
