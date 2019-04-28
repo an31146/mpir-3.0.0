@@ -29,6 +29,7 @@
     <ClInclude Include="..\..\gmp-mparam.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\printf\fprintf.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\assert.c">

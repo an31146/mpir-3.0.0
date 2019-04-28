@@ -102,6 +102,7 @@ postbuild "$(TargetPath)" 15
     <ClInclude Include="..\..\longlong.h" />
     <ClInclude Include="..\..\mpir.h" />
     <ClInclude Include="..\..\gmp-mparam.h" />
+    <ClInclude Include="..\..\printf\fprintf.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\assert.c" />

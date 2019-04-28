@@ -12,3 +12,8 @@
 /build.vc15/lib_mpir_cxx/.vs/lib_mpir_cxx/v15
 /build.vc15/lib_mpir_skylake_avx/x64/Debug
 /dll/x64/Release
+/dll/x64/Debug
+/build.vc
+/build.vc11
+/build.vc12
+/build.vc14
