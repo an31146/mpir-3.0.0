@@ -37,7 +37,7 @@ int
 #if HAVE_STDARG
 gmp_fprintf (FILE *fp, const char *fmt, ...)
 #else
-gmp_fprintf (FILE *fp, const char *fmt, va_alist)
+gmp_fprintf (va_alist)
      va_dcl
 #endif
 {
